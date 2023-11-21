@@ -203,4 +203,4 @@ Your repository should contain one or several notebooks with your solutions.
 - Train gradient boosting trees for gender classification task. What features will you use? Evaluate performance on test dataset and compare.
 - Train torch/tensorflow/keras/etc built-in RNN, LSTM, GRU models and compare their performance with your models
 
-💡 [Tap here](https://forms.yandex.ru/cloud/646b47bce010db2a89f1f5e6/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+>Please leave feedback on the project in the [feedback form.](https://forms.yandex.ru/cloud/646b47bce010db2a89f1f5e6/) 

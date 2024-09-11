@@ -2,6 +2,8 @@
 
 Summary: This project is an introduction to recurrent neural nets (RNN) and their evolution to LSTM and GRU
 
+💡 [Нажми сюда](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624), **чтобы поделиться с нами обратной связью на этот проект**. Это анонимно и поможет нашей команде сделать обучение лучше. Рекомендуем заполнить опрос сразу после выполнения проекта.
+
 ## Contents
 
 1. [Chapter I. Preamble](#chapter-i-preamble)

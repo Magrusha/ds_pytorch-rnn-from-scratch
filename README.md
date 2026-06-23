@@ -96,7 +96,7 @@ etc.
 
 ### Dataset
 
-You will work with the open dataset of baby names — [https://data.world/alexandra/baby-names](https://data.world/alexandra/baby-names). The dataset consists of 6782 records. Each record contains the baby's name and gender.
+You will work with the dataset of baby names — [`datasets/babynames-clean.csv`](./datasets/babynames-clean.csv). The dataset consists of 6782 records. Each record contains the baby's name and gender.
 
 ### Task
 
